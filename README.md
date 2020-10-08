@@ -17,6 +17,14 @@ Desenvolvimento de aplicativo Android para acesso de dados na nuvem via Web Serv
 
 [   ] 3.Fundamentação teórica  
 
+    3.1 Web Service     
+    3.2 Computação em nuvem     
+    3.3 API     
+    3.4 REST     
+    3.5 JSON     
+    3.6 Linguagem Java     
+    3.7 Android  
+
 [   ] 4.Metodologia  
 
 [   ] 5.Desenvolvimento  
