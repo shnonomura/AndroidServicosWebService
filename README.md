@@ -1,9 +1,9 @@
 # AndroidServicosWebService
 Desenvolvimento de aplicativo Android para acesso de dados na nuvem via Web Service
 
-[x] 1.Resumo
-[x] 2.Introducao
-[x] 2.1.Contexto
+[x] 1.Resumo 
+[x] 2.Introducao 
+[x] 2.1.Contexto 
 [x] 2.2.Justificativa
 [x] 2.3.Objetivo Geral
 [x] 2.4.Objetivo Específico
