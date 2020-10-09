@@ -13,9 +13,9 @@ Desenvolvimento de aplicativo Android para acesso de dados na nuvem via Web Serv
 
 [ x ] 2.4.Objetivo Específico  
 
-[   ] 2.5.Estrutura  
+[ X  ] 2.5.Estrutura  
 
-[   ] 3.Fundamentação teórica  
+[ X  ] 3.Fundamentação teórica  
 
     3.1 Web Service     
     3.2 Computação em nuvem     
